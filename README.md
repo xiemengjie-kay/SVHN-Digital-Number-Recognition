@@ -1,5 +1,5 @@
 # SVHN-Digital-Number-Recognition
-> Partners: Junyang (Max) Zhang, Weilin Zhou
+> Members: Mengjie (Kaylee) Xie, Junyang (Max) Zhang, Weilin Zhou
 >
 > Library: PyTorch
 >
